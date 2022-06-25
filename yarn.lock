@@ -1241,13 +1241,16 @@
 "@screens/add-payment-method@file:./screens/add-payment-method":
   version "1.0.0"
 
+"@screens/add-payment-method@file:./screens/add-payment-method/":
+  version "1.0.0"
+
 "@screens/add-review@file:./screens/add-review":
   version "1.0.0"
 
 "@screens/appointment-calendar@file:./screens/appointment-calendar":
   version "1.0.0"
 
-"@screens/chat-listing@file:./screens/chat-listing/":
+"@screens/chat-listing@file:./screens/chat-listing":
   version "1.0.0"
 
 "@screens/create-post-1@file:./screens/create-post-1":
