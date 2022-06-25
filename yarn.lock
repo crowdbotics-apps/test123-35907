@@ -1232,9 +1232,6 @@
 "@screens/about-the-app@file:./screens/about-the-app":
   version "1.0.0"
 
-"@screens/about-the-app@file:./screens/about-the-app/":
-  version "1.0.0"
-
 "@screens/add-payment-method@file:./screens/add-payment-method":
   version "1.0.0"
 
@@ -1254,6 +1251,9 @@
   version "1.0.0"
 
 "@screens/messages-listing@file:./screens/messages-listing":
+  version "1.0.0"
+
+"@screens/order-complete@file:./screens/order-complete/":
   version "1.0.0"
 
 "@screens/product-favorite@file:./screens/product-favorite":
