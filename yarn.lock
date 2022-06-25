@@ -998,7 +998,7 @@
     "@jridgewell/resolve-uri" "^3.0.3"
     "@jridgewell/sourcemap-codec" "^1.4.10"
 
-"@modules/app-menu@file:./modules/app-menu/":
+"@modules/app-menu@file:./modules/app-menu":
   version "1.0.0"
 
 "@react-native-community/cli-debugger-ui@^5.0.1":
@@ -1227,6 +1227,9 @@
   version "1.0.0"
 
 "@screens/direct-messages@file:./screens/direct-messages":
+  version "1.0.0"
+
+"@screens/messages-listing@file:./screens/messages-listing/":
   version "1.0.0"
 
 "@screens/product-listing@file:./screens/product-listing":

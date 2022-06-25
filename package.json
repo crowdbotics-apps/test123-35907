@@ -22,6 +22,7 @@
     "@screens/add-review": "file:./screens/add-review/",
     "@screens/appointment-calendar": "file:./screens/appointment-calendar/",
     "@screens/direct-messages": "file:./screens/direct-messages/",
+    "@screens/messages-listing": "file:./screens/messages-listing/",
     "@screens/product-listing": "file:./screens/product-listing/",
     "axios": "^0.21.1",
     "react": "17.0.1",
