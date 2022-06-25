@@ -1009,14 +1009,6 @@
     react-native-emoji-selector "^0.2.0"
     react-native-keyboard-aware-scroll-view "^0.9.3"
 
-"@modules/chat@file:./modules/chat/":
-  version "1.0.0"
-  dependencies:
-    pubnub "^4.29.11"
-    pubnub-react "^2.1.0"
-    react-native-emoji-selector "^0.2.0"
-    react-native-keyboard-aware-scroll-view "^0.9.3"
-
 "@modules/login@file:./modules/login":
   version "1.0.0"
   dependencies:
@@ -1253,6 +1245,9 @@
   version "1.0.0"
 
 "@screens/appointment-calendar@file:./screens/appointment-calendar":
+  version "1.0.0"
+
+"@screens/chat-listing@file:./screens/chat-listing/":
   version "1.0.0"
 
 "@screens/create-post-1@file:./screens/create-post-1":
