@@ -1211,7 +1211,10 @@
     redux-thunk "^2.4.1"
     reselect "^4.1.5"
 
-"@screens/direct-messages@file:./screens/direct-messages/":
+"@screens/appointment-calendar@file:./screens/appointment-calendar/":
+  version "1.0.0"
+
+"@screens/direct-messages@file:./screens/direct-messages":
   version "1.0.0"
 
 "@screens/product-listing@file:./screens/product-listing":
