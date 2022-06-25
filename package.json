@@ -22,6 +22,7 @@
     "@screens/add-payment-method": "file:./screens/add-payment-method/",
     "@screens/add-review": "file:./screens/add-review/",
     "@screens/appointment-calendar": "file:./screens/appointment-calendar/",
+    "@screens/create-post": "file:./screens/create-post/",
     "@screens/direct-messages": "file:./screens/direct-messages/",
     "@screens/messages-listing": "file:./screens/messages-listing/",
     "@screens/product-listing": "file:./screens/product-listing/",

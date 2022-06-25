@@ -1001,7 +1001,7 @@
 "@modules/app-menu@file:./modules/app-menu":
   version "1.0.0"
 
-"@modules/login@file:./modules/login/":
+"@modules/login@file:./modules/login":
   version "1.0.0"
   dependencies:
     "@react-navigation/native" "^5.9.2"
@@ -1231,6 +1231,9 @@
   version "1.0.0"
 
 "@screens/appointment-calendar@file:./screens/appointment-calendar":
+  version "1.0.0"
+
+"@screens/create-post@file:./screens/create-post/":
   version "1.0.0"
 
 "@screens/direct-messages@file:./screens/direct-messages":

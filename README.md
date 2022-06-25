@@ -64,6 +64,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [react-native-app-menu](modules/app-menu)
 - [screen-messages-listing](screens/messages-listing)
 - [react-native-login](modules/login)
+- [screen-create-post](screens/create-post)
 
 # Getting started: Frontend
 
