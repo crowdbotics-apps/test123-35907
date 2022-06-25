@@ -7,18 +7,25 @@ class Migration(migrations.Migration):
 
     initial = True
 
-    dependencies = [
-    ]
+    dependencies = []
 
     operations = [
         migrations.CreateModel(
-            name='DirectMessagesScreen6',
+            name="DirectMessagesScreen6",
             fields=[
-                ('id', models.AutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),
-                ('firstname', models.CharField(max_length=256)),
-                ('lastname', models.CharField(max_length=256)),
-                ('dob', models.DateField()),
-                ('emailaddress', models.EmailField(max_length=254)),
+                (
+                    "id",
+                    models.AutoField(
+                        auto_created=True,
+                        primary_key=True,
+                        serialize=False,
+                        verbose_name="ID",
+                    ),
+                ),
+                ("firstname", models.CharField(max_length=256)),
+                ("lastname", models.CharField(max_length=256)),
+                ("dob", models.DateField()),
+                ("emailaddress", models.EmailField(max_length=254)),
             ],
         ),
     ]
