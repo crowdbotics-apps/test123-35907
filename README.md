@@ -66,6 +66,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [react-native-login](modules/login)
 - [screen-create-post](screens/create-post)
 - [react-native-chat](modules/chat)
+- [screen-store-products-favorites](screens/product-favorite)
 
 # Getting started: Frontend
 

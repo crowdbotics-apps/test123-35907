@@ -26,6 +26,7 @@
     "@screens/create-post": "file:./screens/create-post/",
     "@screens/direct-messages": "file:./screens/direct-messages/",
     "@screens/messages-listing": "file:./screens/messages-listing/",
+    "@screens/product-favorite": "file:./screens/product-favorite/",
     "@screens/product-listing": "file:./screens/product-listing/",
     "axios": "^0.21.1",
     "react": "17.0.1",
