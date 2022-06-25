@@ -58,7 +58,6 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-store-products-listing](screens/product-listing)
 - [screen-appointment-calendar-view](screens/appointment-calendar)
 - [screen-review-add](screens/add-review)
-- [screen-about-the-app](screens/about-the-app)
 - [react-native-app-menu](modules/app-menu)
 - [react-native-login](modules/login)
 - [screen-create-post](screens/create-post)

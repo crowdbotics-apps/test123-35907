@@ -19,7 +19,6 @@
     "@react-navigation/native": "^5.9.3",
     "@react-navigation/stack": "^5.14.3",
     "@reduxjs/toolkit": "^1.5.0",
-    "@screens/about-the-app": "file:./screens/about-the-app/",
     "@screens/add-review": "file:./screens/add-review/",
     "@screens/appointment-calendar": "file:./screens/appointment-calendar/",
     "@screens/chat-listing": "file:./screens/chat-listing/",
