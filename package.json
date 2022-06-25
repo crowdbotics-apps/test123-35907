@@ -26,7 +26,6 @@
     "@screens/chat-listing": "file:./screens/chat-listing/",
     "@screens/create-post": "file:./screens/create-post/",
     "@screens/create-post-1": "file:./screens/create-post-1/",
-    "@screens/messages-listing": "file:./screens/messages-listing/",
     "@screens/order-complete": "file:./screens/order-complete/",
     "@screens/product-favorite": "file:./screens/product-favorite/",
     "@screens/product-listing": "file:./screens/product-listing/",
