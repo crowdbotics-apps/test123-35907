@@ -58,6 +58,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-store-products-listing](screens/product-listing)
 - [screen-direct-messages](screens/direct-messages)
 - [screen-appointment-calendar-view](screens/appointment-calendar)
+- [screen-add-payment-method](screens/add-payment-method)
 
 # Getting started: Frontend
 

@@ -16,6 +16,7 @@
     "@react-navigation/native": "^5.9.3",
     "@react-navigation/stack": "^5.14.3",
     "@reduxjs/toolkit": "^1.5.0",
+    "@screens/add-payment-method": "file:./screens/add-payment-method/",
     "@screens/appointment-calendar": "file:./screens/appointment-calendar/",
     "@screens/direct-messages": "file:./screens/direct-messages/",
     "@screens/product-listing": "file:./screens/product-listing/",
