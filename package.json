@@ -21,7 +21,6 @@
     "@screens/add-review": "file:./screens/add-review/",
     "@screens/appointment-calendar": "file:./screens/appointment-calendar/",
     "@screens/chat-listing": "file:./screens/chat-listing/",
-    "@screens/create-post": "file:./screens/create-post/",
     "@screens/create-post-1": "file:./screens/create-post-1/",
     "@screens/order-complete": "file:./screens/order-complete/",
     "@screens/product-favorite": "file:./screens/product-favorite/",

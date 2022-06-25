@@ -1232,9 +1232,6 @@
 "@screens/create-post-1@file:./screens/create-post-1":
   version "1.0.0"
 
-"@screens/create-post@file:./screens/create-post":
-  version "1.0.0"
-
 "@screens/order-complete@file:./screens/order-complete":
   version "1.0.0"
 
