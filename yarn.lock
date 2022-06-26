@@ -1229,9 +1229,6 @@
 "@screens/chat-listing@file:./screens/chat-listing":
   version "1.0.0"
 
-"@screens/create-post-1@file:./screens/create-post-1":
-  version "1.0.0"
-
 "@screens/order-complete@file:./screens/order-complete":
   version "1.0.0"
 

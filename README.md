@@ -59,7 +59,6 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-review-add](screens/add-review)
 - [react-native-app-menu](modules/app-menu)
 - [screen-store-products-favorites](screens/product-favorite)
-- [screen-create-post-2](screens/create-post-1)
 - [screen-order-complete](screens/order-complete)
 - [react-native-user-profile](modules/user-profile)
 - [screen-chat-listing](screens/chat-listing)
