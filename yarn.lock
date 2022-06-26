@@ -1229,10 +1229,13 @@
 "@screens/appointment-calendar@file:./screens/appointment-calendar":
   version "1.0.0"
 
+"@screens/cart@file:./screens/cart/":
+  version "1.0.0"
+
 "@screens/chat-listing@file:./screens/chat-listing":
   version "1.0.0"
 
-"@screens/login@file:./screens/login/":
+"@screens/login@file:./screens/login":
   version "1.0.0"
 
 "@screens/order-complete@file:./screens/order-complete":
