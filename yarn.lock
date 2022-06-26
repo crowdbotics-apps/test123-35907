@@ -1229,7 +1229,10 @@
 "@screens/appointment-calendar@file:./screens/appointment-calendar":
   version "1.0.0"
 
-"@screens/cart@file:./screens/cart/":
+"@screens/blog-post@file:./screens/blog-post/":
+  version "1.0.0"
+
+"@screens/cart@file:./screens/cart":
   version "1.0.0"
 
 "@screens/chat-listing@file:./screens/chat-listing":

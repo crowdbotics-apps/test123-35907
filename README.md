@@ -67,6 +67,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-photo-filter](screens/photo-filter)
 - [screen-login](screens/login)
 - [screen-store-cart](screens/cart)
+- [screen-blog-post](screens/blog-post)
 
 # Getting started: Frontend
 

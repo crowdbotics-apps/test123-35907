@@ -21,6 +21,7 @@
     "@reduxjs/toolkit": "^1.5.0",
     "@screens/add-review": "file:./screens/add-review/",
     "@screens/appointment-calendar": "file:./screens/appointment-calendar/",
+    "@screens/blog-post": "file:./screens/blog-post/",
     "@screens/cart": "file:./screens/cart/",
     "@screens/chat-listing": "file:./screens/chat-listing/",
     "@screens/login": "file:./screens/login/",
