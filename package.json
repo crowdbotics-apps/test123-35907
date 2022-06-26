@@ -27,7 +27,6 @@
     "@screens/login": "file:./screens/login/",
     "@screens/order-complete": "file:./screens/order-complete/",
     "@screens/photo-filter": "file:./screens/photo-filter/",
-    "@screens/product-favorite": "file:./screens/product-favorite/",
     "@screens/welcome": "file:./screens/welcome/",
     "axios": "^0.21.1",
     "react": "17.0.1",

@@ -1229,7 +1229,7 @@
 "@screens/appointment-calendar@file:./screens/appointment-calendar":
   version "1.0.0"
 
-"@screens/blog-post@file:./screens/blog-post/":
+"@screens/blog-post@file:./screens/blog-post":
   version "1.0.0"
 
 "@screens/cart@file:./screens/cart":
@@ -1245,9 +1245,6 @@
   version "1.0.0"
 
 "@screens/photo-filter@file:./screens/photo-filter":
-  version "1.0.0"
-
-"@screens/product-favorite@file:./screens/product-favorite":
   version "1.0.0"
 
 "@screens/welcome@file:./screens/welcome":
