@@ -22,6 +22,7 @@
     "@screens/add-review": "file:./screens/add-review/",
     "@screens/appointment-calendar": "file:./screens/appointment-calendar/",
     "@screens/chat-listing": "file:./screens/chat-listing/",
+    "@screens/login": "file:./screens/login/",
     "@screens/order-complete": "file:./screens/order-complete/",
     "@screens/photo-filter": "file:./screens/photo-filter/",
     "@screens/product-favorite": "file:./screens/product-favorite/",
