@@ -63,7 +63,6 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-chat-listing](screens/chat-listing)
 - [react-native-splash](modules/splash)
 - [screen-welcome](screens/welcome)
-- [screen-photo-filter](screens/photo-filter)
 - [screen-login](screens/login)
 - [screen-store-cart](screens/cart)
 - [screen-blog-post](screens/blog-post)

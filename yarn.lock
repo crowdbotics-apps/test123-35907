@@ -1244,9 +1244,6 @@
 "@screens/order-complete@file:./screens/order-complete":
   version "1.0.0"
 
-"@screens/photo-filter@file:./screens/photo-filter":
-  version "1.0.0"
-
 "@screens/welcome@file:./screens/welcome":
   version "1.0.0"
 
