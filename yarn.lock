@@ -1001,7 +1001,7 @@
 "@modules/app-menu@file:./modules/app-menu":
   version "1.0.0"
 
-"@modules/splash@file:./modules/splash/":
+"@modules/splash@file:./modules/splash":
   version "1.0.0"
 
 "@modules/user-profile@file:./modules/user-profile":
@@ -1236,6 +1236,9 @@
   version "1.0.0"
 
 "@screens/product-favorite@file:./screens/product-favorite":
+  version "1.0.0"
+
+"@screens/welcome@file:./screens/welcome/":
   version "1.0.0"
 
 "@sideway/address@^4.1.3":
