@@ -1238,9 +1238,6 @@
 "@screens/chat-listing@file:./screens/chat-listing":
   version "1.0.0"
 
-"@screens/login@file:./screens/login":
-  version "1.0.0"
-
 "@screens/order-complete@file:./screens/order-complete":
   version "1.0.0"
 

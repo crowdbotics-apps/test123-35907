@@ -24,7 +24,6 @@
     "@screens/blog-post": "file:./screens/blog-post/",
     "@screens/cart": "file:./screens/cart/",
     "@screens/chat-listing": "file:./screens/chat-listing/",
-    "@screens/login": "file:./screens/login/",
     "@screens/order-complete": "file:./screens/order-complete/",
     "@screens/welcome": "file:./screens/welcome/",
     "axios": "^0.21.1",
